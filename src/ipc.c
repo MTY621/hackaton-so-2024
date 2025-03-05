@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: BSD-3-Clause
+// Belciug Matei and Vasile Vlad
 
 #include <stdio.h>
 #include <string.h>
